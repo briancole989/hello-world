@@ -1,2 +1,6 @@
 # hello-world
 Forcing my computer to introduce itself
+
+I am a mere College student that seeks to bend the will of computers...
+...and make money doing so...
+...and maybe make a game or 2?
